@@ -4,5 +4,6 @@
       "namespace":"ProcedurePlugin",
       "author":"MR",
       "type":"event",
-      "serviceProvider":"ProcedurePlugin\\Providers\\ProcedurePluginServiceProvider.php"
+      "serviceProvider":"ProcedurePlugin\\Providers\\ProcedurePluginServiceProvider.php",
+      "version"           : "0.0.1"
 }
