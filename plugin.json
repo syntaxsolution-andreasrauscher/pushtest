@@ -3,7 +3,7 @@
       "description":"ProcedurePlugin",
       "namespace":"ProcedurePlugin",
       "author":"MR",
-      "type":"event",
+      "type":"backend",
       "serviceProvider":"ProcedurePlugin\\Providers\\ProcedurePluginServiceProvider.php",
       "version"           : "0.0.1"
 }
