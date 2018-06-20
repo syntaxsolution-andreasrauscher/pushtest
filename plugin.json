@@ -1,8 +1,8 @@
 {
       "name":"ProcedurePlugin",
-      "description":"My first plugin",
+      "description":"ProcedurePlugin",
       "namespace":"ProcedurePlugin",
-      "author":"Christian Moll",
-      "type":"backend",
+      "author":"MR",
+      "type":"event",
       "serviceProvider":"ProcedurePlugin\\Providers\\ProcedurePluginServiceProvider.php"
 }
