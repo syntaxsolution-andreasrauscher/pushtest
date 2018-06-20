@@ -5,5 +5,5 @@
       "author":"MR",
       "type":"backend",
       "serviceProvider":"ProcedurePlugin\\Providers\\ProcedurePluginServiceProvider.php",
-      "version"           : "0.0.1"
+      "version"           : "0.0.2"
 }
